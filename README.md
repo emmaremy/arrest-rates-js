@@ -1,2 +1,2 @@
 # arrest-rates-js
-Re-creating the arrest rates R Shiny visualization with JavaScript
+Future project: Re-creating the arrest rates R Shiny visualization with JavaScript
